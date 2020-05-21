@@ -1,0 +1,20 @@
+{
+  "name": "starbloom/drush-sqlserver-driver",
+  "description": "A class used by Drush to sq:cli/query/create/etc, when Drupal is using SQL Server databases.",
+  "homepage": "https://github.com/starbloom/drush-sqlserver-driver/",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "support": {
+    "issues": "https://github.com/starbloom/drush-sqlserver-driver/issues"
+  },
+  "authors": [
+    {
+      "name": "Ning Ye",
+      "email": "ning@oaklight.us"
+    }
+  ],
+  "autoload": {
+    "classmap": ["SqlSqlsrv.php"]
+  }
+}
