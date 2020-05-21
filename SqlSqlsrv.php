@@ -1,6 +1,4 @@
 <?php
-// Install into drush ./vendor/drush/drush/src/Sql
-
 namespace Drush\Sql;
 
 use PDO;
