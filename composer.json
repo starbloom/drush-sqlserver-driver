@@ -1,6 +1,6 @@
 {
   "name": "starbloom/drush-sqlserver-driver",
-  "description": "A class used by Drush to sq:cli/query/create/etc, when Drupal is using SQL Server databases.",
+  "description": "Add Microsoft SQL Server for Drush by adding sql:cli/query/create/etc commands. Dump and sync are not supported.  Please use Microsoft SQL Management Studio to generate DB scripts instead.",
   "homepage": "https://github.com/starbloom/drush-sqlserver-driver/",
   "license": "MIT",
   "minimum-stability": "dev",
